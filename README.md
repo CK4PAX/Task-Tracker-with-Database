@@ -22,6 +22,6 @@ Use this options
 - `list in-progress`
 - `mark-done`
 - `mark-in-progress`
-
+	
 If you enter a bad command, CLI will help you to correct it.
 
