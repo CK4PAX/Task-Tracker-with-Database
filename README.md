@@ -13,13 +13,15 @@ Use the following command:
 java -jar TaskTracker.jar <options>
 ````
 Use this options 
-	-add <"task">
-	-delete <task-id>
-	-update <task-id> <"updated task">
-	-list
-	-list todo
-	-list done
-	-list in-progress
-	-mark-done <task-id>
-	-mark-in-progress <task-id>
+- `add <"task">`
+- `delete`
+- `update <"updated task">`
+- `list`
+- `list todo`
+- `list done`
+- `list in-progress`
+- `mark-done`
+- `mark-in-progress`
+
 If you enter a bad command, CLI will help you to correct it.
+
